@@ -184,10 +184,11 @@ export default function Index() {
       <header className="border-b bg-white/80 backdrop-blur-sm sticky top-0 z-50">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-primary rounded-xl flex items-center justify-center">
-              <Icon name="GraduationCap" className="text-white" size={24} />
-            </div>
-            <h1 className="text-2xl font-bold text-primary">РЕПЕТИТОР.ру</h1>
+            <img 
+              src="https://cdn.poehali.dev/files/logoza.ruтывиртысрнуыцвр.png" 
+              alt="РЕПЕТИТОР.ру" 
+              className="h-10 w-auto"
+            />
           </div>
           <nav className="hidden md:flex items-center gap-6">
             <a href="#catalog" className="text-sm font-medium hover:text-primary transition-colors">Каталог</a>
@@ -532,10 +533,11 @@ export default function Index() {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center gap-2">
-              <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
-                <Icon name="GraduationCap" className="text-white" size={18} />
-              </div>
-              <span className="font-bold text-primary">РЕПЕТИТОР.ру</span>
+              <img 
+                src="https://cdn.poehali.dev/files/logoza.ruтывиртысрнуыцвр.png" 
+                alt="РЕПЕТИТОР.ру" 
+                className="h-8 w-auto"
+              />
             </div>
             <div className="text-sm text-muted-foreground">
               © 2024 РЕПЕТИТОР.ру. Все права защищены.

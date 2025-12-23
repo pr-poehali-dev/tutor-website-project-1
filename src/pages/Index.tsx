@@ -185,8 +185,8 @@ export default function Index() {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <img 
-              src="https://cdn.poehali.dev/files/logoza.ruтывиртысрнуыцвр.png" 
-              alt="РЕПЕТИТОР.ру" 
+              src="https://cdn.poehali.dev/files/REPEtitor_ru.png" 
+              alt="REPEtitor_ru" 
               className="h-10 w-auto"
             />
           </div>
@@ -534,8 +534,8 @@ export default function Index() {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center gap-2">
               <img 
-                src="https://cdn.poehali.dev/files/logoza.ruтывиртысрнуыцвр.png" 
-                alt="РЕПЕТИТОР.ру" 
+                src="https://cdn.poehali.dev/files/REPEtitor_ru.png" 
+                alt="REPEtitor_ru" 
                 className="h-8 w-auto"
               />
             </div>
